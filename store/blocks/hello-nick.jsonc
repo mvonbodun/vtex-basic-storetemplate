@@ -1,0 +1,14 @@
+{
+    "store.custom#hello-nick": {
+        "blocks": [
+            "rich-text#top"
+        ]
+    },
+    "rich-text#top": {
+        "props": {
+            "text": "# My title h1 \n Insert some good text here \n ## My title",
+            "textPosition": "LEFT",
+            "textAlignment": "LEFT"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "store.custom#about-us": {
+      "path": "/about-us"
+    },
+    "store.custom#hello-nick": {
+        "path": "/hello-nick"
+    },
+    "store.custom#landing": {
+    "path": "/landing"
+    }
+}

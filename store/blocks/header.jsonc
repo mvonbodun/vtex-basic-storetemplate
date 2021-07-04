@@ -26,12 +26,24 @@
     },
     "children": [
       "flex-layout.col#logo-desktop",
+      "category-menu",
       "flex-layout.col#spacer",
       "search-bar",
       "locale-switcher",
       "login",
       "minicart.v2"
     ]
+  },
+  "category-menu": {
+    "props": {
+      "showAllDepartments": true,
+      "showSubcategories": true,
+      "menuDisposition": "center",
+      "departments": []
+    }
+  },
+  "search-bar": {
+    "blocks":["autocomplete-result-list"]
   },
   "flex-layout.col#spacer": {
     "props": {
